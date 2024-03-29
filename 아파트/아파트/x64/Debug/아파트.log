@@ -1,0 +1,6 @@
+﻿  소스.c
+C:\Users\lsh04\source\repos\아파트\소스.c(13,12): warning C4047: '=': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+C:\Users\lsh04\source\repos\아파트\소스.c(13,23): warning C4047: '<': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+C:\Users\lsh04\source\repos\아파트\소스.c(14,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[10][10]'입니다.
+C:\Users\lsh04\source\repos\아파트\소스.c(16,12): warning C4047: '==': 'int [10][10]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  아파트.vcxproj -> C:\Users\lsh04\source\repos\아파트\x64\Debug\아파트.exe
